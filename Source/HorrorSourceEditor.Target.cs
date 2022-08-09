@@ -14,5 +14,5 @@ public class HorrorSourceEditorTarget : TargetRules
 
         bUseUnityBuild = false;
         bUsePCHFiles = false;
-    }
+	}
 }
